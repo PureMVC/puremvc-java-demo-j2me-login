@@ -1,0 +1,15 @@
+PureMVC Demo for Java / J2ME - Login
+Copyright(c) 2007-08 Jari Kemppinen <jari.kemppinen@puremvc.org>
+Your reuse is governed by the Creative Commons Attribution 3.0 License
+--------------------------------------------------------------------------
+Release Date: 5/14/08
+    Platform: Java
+     Version: 0
+    Revision: 1
+      Author: Jari Kemppinen <jari.kemppinen@puremvc.org>
+     License: Creative Commons Attribution 3.0 License
+--------------------------------------------------------------------------
+
+Jari Kemppinen
+0.1 - Created initial file structure and added license and version files - CLH
+
